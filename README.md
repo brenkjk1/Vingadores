@@ -32,6 +32,6 @@ O CSS é utilizado para estilizar a página, garantindo que ela seja visualmente
 Clone o repositório usando o seguinte comando:
 
 ```bash
-git 
+git https://github.com/deveduardo5/Vingadores.git
 
 ```
