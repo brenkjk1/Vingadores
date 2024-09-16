@@ -89,13 +89,15 @@ html {
 .img-filme {
     font-weight: bold;
     text-align: center;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-around;
 }
 
 .imgfilme-2 {
     font-weight: bold;
     text-align: center;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-around;
 }
 
 
